@@ -2,6 +2,7 @@
 
  
  🚀 About Me
+ 
 
   🌟 I’m a Data Scientist, Investment Officer, and Business Strategist with a passion for data science and its transformative potential in solving real-world challenges.
 
@@ -9,7 +10,8 @@
 
   🛠️ Focused on building end-to-end machine learning models and interactive dashboards.
 
--   💼 Skills & Tools
+
+   💼 Skills & Tools
 -   
   Core Skills
 
@@ -25,15 +27,18 @@
  💻 Tech Stack
   
 -   Programming & Development
--   
-          Python: For machine learning, data analysis, and modeling.
-          SQL: For querying and managing databases.
+
+    Python: For machine learning, data analysis, and modeling.
+
+    SQL: For querying and managing databases.
   
 -  Data Visualization
--     Power BI: Interactive dashboards and business insights.
--     Matplotlib/Seaborn: For Python-based data visualization.
--     Plotly/Dash: Interactive web-based dashboards.
--  Machine Learning & AI
+=  
+       Power BI: Interactive dashboards and business insights.
+       Matplotlib/Seaborn: For Python-based data visualization.
+       Plotly/Dash: Interactive web-based dashboards.
+-
+-   Machine Learning & AI
 -     scikit-learn: For machine learning models.
 -     TensorFlow/Keras: For deep learning.
 -     PyTorch: For deep learning and neural networks.
