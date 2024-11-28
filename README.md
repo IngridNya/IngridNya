@@ -26,28 +26,39 @@
   
  💻 Tech Stack
   
--   Programming & Development
+   Programming & Development
 
-    Python: For machine learning, data analysis, and modeling.
+   Python: For machine learning, data analysis, and modeling.
 
-    SQL: For querying and managing databases.
+   SQL: For querying and managing databases.
   
--  Data Visualization
-=  
-       Power BI: Interactive dashboards and business insights.
-       Matplotlib/Seaborn: For Python-based data visualization.
-       Plotly/Dash: Interactive web-based dashboards.
+  Data Visualization
+    
+   Power BI: Interactive dashboards and business insights.
+     
+   Matplotlib/Seaborn: For Python-based data visualization.
+     
+   Plotly/Dash: Interactive web-based dashboards.
+
+   Machine Learning & AI
+-   
+-    scikit-learn: For machine learning models.
+    
+-    TensorFlow/Keras: For deep learning.
 -
--   Machine Learning & AI
--     scikit-learn: For machine learning models.
--     TensorFlow/Keras: For deep learning.
--     PyTorch: For deep learning and neural networks.
--     XGBoost/LightGBM: For optimized gradient boosting.
--  Data Processing
--     Pandas: Data manipulation and analysis in Python.
--     NumPy: Numerical computations.
--     Dask: For parallel computing and big data processing.
-- Big Data & Cloud Platforms
+-    PyTorch: For deep learning and neural networks.
+-
+-    XGBoost/LightGBM: For optimized gradient boosting.
+-
+  Data Processing
+-
+-    Pandas: Data manipulation and analysis in Python.
+-
+-    NumPy: Numerical computations.
+-
+-    Dask: For parallel computing and big data processing.
+-    
+ Big Data & Cloud Platforms
 -     Google BigQuery: For analyzing large datasets.
 -     AWS: For deploying cloud solutions.
 -     Spark: Distributed data processing for big data.
