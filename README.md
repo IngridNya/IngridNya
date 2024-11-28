@@ -18,6 +18,8 @@
 -   
   Core Skills
 
+<p align="center">
+   
   🤖 Machine Learning
   
    📊 Data Analysis
@@ -26,7 +28,7 @@
     
    📈 Strategy and Policy Development
 
-  
+  </p>
  # 💻 Tech Stack
   
    Programming & Development
