@@ -4,16 +4,18 @@
         🌟 I’m a Data Scientist, Investment Officer, and Business Strategist with a passion for data science and its transformative potential in solving real-world challenges.
         💡 Proficient in machine learning, data analysis, strategy and policy development, and macroeconomic modeling.
         🛠️ Focused on building end-to-end machine learning models and interactive dashboards.
-- 💼 Skills & Tools
-   🛠️ Core Skills
-         📈 Strategy and Policy Development
+-   💼 Skills & Tools
+-   
+  Core Skills
          🤖 Machine Learning
          📊 Data Analysis
          🌍 Macroeconomic Modeling
+         📈 Strategy and Policy Development
   
 - 💻 Tech Stack
-     Programming & Development
--      Python: For machine learning, data analysis, and modeling.
+  
+-   Programming & Development
+-     Python: For machine learning, data analysis, and modeling.
 -      SQL: For querying and managing databases.
 -  Data Visualization
 -     Power BI: Interactive dashboards and business insights.
