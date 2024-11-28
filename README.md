@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IngridNyakerario
+ 👋 Hi, I’m @IngridNyakerario
 - 🚀 About Me
 
   🌟 I’m a Data Scientist, Investment Officer, and Business Strategist with a passion for data science and its transformative potential in solving real-world challenges.
