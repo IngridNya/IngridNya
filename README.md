@@ -86,46 +86,49 @@
  
  # 💞️ I’m looking to collaborate on Data Science Projects 
 
- 
- Collaborating on machine learning models for predictive analysis, data-driven decision-making, and forecasting models.
- 
--    AI and deep learning projects, especially in natural language processing and computer vision.
+ <p align="center"> 
     
--    Working on data analysis projects that extract actionable insights from large datasets to support business strategies.
+ **Collaborating on machine learning models for predictive analysis, data-driven decision-making, and forecasting models.**
+ 
+-    **AI and deep learning projects, especially in natural language processing and computer vision.**
+    
+-   ** Working on data analysis projects that extract actionable insights from large datasets to support business strategies.**
   
  Data Visualization
  
--    Open to projects focused on creating interactive dashboards and data visualizations using Power BI, Tableau, and Streamlit.
+-    **Open to projects focused on creating interactive dashboards and data visualizations using Power BI, Tableau, and Streamlit.**
   
--    Working on data visualization projects that communicate insights to non-technical stakeholders and aid decision-making.
+-    **Working on data visualization projects that communicate insights to non-technical stakeholders and aid decision-making.**
   
   Business Strategy & Policy Development
   
--    Looking for projects where I can combine data science insights with business strategy and policy development to drive sustainable growth.
+-    **Looking for projects where I can combine data science insights with business strategy and policy development to drive sustainable growth.**
   
 -    Collaborating on business intelligence initiatives and projects that use data to inform policy decisions
   
   Data Engineering
   
--    I’m currently learning data engineering and looking for opportunities to collaborate on data pipelines, ETL processes, and data warehouses.
+-    **I’m currently learning data engineering and looking for opportunities to collaborate on data pipelines, ETL processes, and data warehouses.**
    
--    Interested in projects involving cloud platforms (AWS, GCP) and building data lakes for efficient data processing and management.
+-    **Interested in projects involving cloud platforms (AWS, GCP) and building data lakes for efficient data processing and management.**
   
   Sustainability and Green Finance
   
 -    Interested in projects focused on sustainability, green finance, and renewable energy investments.
   
--    Looking for opportunities to apply data science to improve environmental policies and business strategies in the green economy.
+-    **Looking for opportunities to apply data science to improve environmental policies and business strategies in the green economy.**
   
   Open Source Contributions
   
--    I am eager to contribute to open-source data science projects and collaborate on improving code, documentation, and new feature development.
+-    **I am eager to contribute to open-source data science projects and collaborate on improving code, documentation, and new feature development.**
   
   Educational Projects
   
--    Open to collaborating on creating educational content around data science, macroeconomics, and machine learning for beginner to intermediate learners.
+-    **Open to collaborating on creating educational content around data science, macroeconomics, and machine learning for beginner to intermediate learners.**
   
--    Looking to participate in or create workshops, tutorials, and training materials for sharing knowledge in the data science community.
+-    **Looking to participate in or create workshops, tutorials, and training materials for sharing knowledge in the data science community.**
+
+  </p>
   
  # 🌍 Let’s Connect
   
@@ -135,7 +138,7 @@
   
 -    Email: ingridnyakerario@gmail.com
   
- ⚡ Fun fact: I love combining creativity with data! When I’m not analyzing trends or building models, I’m exploring new ways to make complex problems fun—whether it’s through interactive visualizations or brainstorming out-of-the-box solutions for everyday challenges!
+ ### ⚡ Fun fact: I love combining creativity with data! When I’m not analyzing trends or building models, I’m exploring new ways to make complex problems fun—whether it’s through interactive visualizations or brainstorming out-of-the-box solutions for everyday challenges!
 
 
 <!---
