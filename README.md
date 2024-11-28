@@ -27,7 +27,7 @@
    📈 Strategy and Policy Development
 
   
- 💻 Tech Stack
+ $💻 Tech Stack
   
    Programming & Development
    -   Python: For machine learning, data analysis, and modeling.
@@ -82,10 +82,10 @@
      
 -    Streamlit: For quickly deploying data apps.]
   
- 🌱 I’m currently learning data engineering 
+ #🌱 I’m currently learning data engineering 
 
  
- 💞️ I’m looking to collaborate on Data Science Projects 
+ #💞️ I’m looking to collaborate on Data Science Projects 
 
  
  Collaborating on machine learning models for predictive analysis, data-driven decision-making, and forecasting models.
@@ -128,7 +128,7 @@
   
 -    Looking to participate in or create workshops, tutorials, and training materials for sharing knowledge in the data science community.
   
-- 🌍 Let’s Connect
+ #🌍 Let’s Connect
   
 -    LinkedIn: [Ingrid Nyakerario](https://www.linkedin.com/in/ingrid-ong-uti-43a93361/)
   
