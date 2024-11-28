@@ -1,5 +1,7 @@
  👋 Hi, I’m @IngridNyakerario
-- 🚀 About Me
+
+ 
+ 🚀 About Me
 
   🌟 I’m a Data Scientist, Investment Officer, and Business Strategist with a passion for data science and its transformative potential in solving real-world challenges.
 
@@ -10,16 +12,23 @@
 -   💼 Skills & Tools
 -   
   Core Skills
-         🤖 Machine Learning
-         📊 Data Analysis
-         🌍 Macroeconomic Modeling
-         📈 Strategy and Policy Development
+
+  🤖 Machine Learning
   
-- 💻 Tech Stack
+   📊 Data Analysis
+   
+   🌍 Macroeconomic Modeling
+    
+   📈 Strategy and Policy Development
+
+  
+ 💻 Tech Stack
   
 -   Programming & Development
--     Python: For machine learning, data analysis, and modeling.
--      SQL: For querying and managing databases.
+-   
+          Python: For machine learning, data analysis, and modeling.
+          SQL: For querying and managing databases.
+  
 -  Data Visualization
 -     Power BI: Interactive dashboards and business insights.
 -     Matplotlib/Seaborn: For Python-based data visualization.
