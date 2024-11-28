@@ -6,7 +6,8 @@
    ### 🚀 About Me
  
 <p align="center">
-  🌟 I’m a Data Scientist, Investment Officer, and Business Strategist with a passion for data science and its transformative potential in solving real-world challenges.
+   
+   **🌟 I’m a Data Scientist, Investment Officer, and Business Strategist with a passion for data science and its transformative potential in solving real-world challenges.**
 
    💡 Proficient in machine learning, data analysis, strategy and policy development, and macroeconomic modeling.
 
