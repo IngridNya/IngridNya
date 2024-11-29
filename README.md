@@ -30,7 +30,7 @@
 
   </p>
   
-  -   # 💻 Tech Stack
+   ## 💻 Tech Stack
   
    Programming & Development
    -   Python: For machine learning, data analysis, and modeling.
