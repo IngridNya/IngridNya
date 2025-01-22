@@ -28,9 +28,9 @@ I'm expanding my skills in **data engineering** and focusing on building tools t
 ---
 
 ### 📫 Let's Connect
-- **[LinkedIn](https://www.linkedin.com/in/your-link)**  
+- **[LinkedIn](https://www.linkedin.com/in/ingrid-ong-uti-43a93361)**  
 - **[Portfolio Website](https://your-portfolio-link.com)**  
-- **[Email](mailto:your-email@example.com)**  
+- **[Email](mailto:ingridnyakerario@gmail.com)**  
 
 ---
 
