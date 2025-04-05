@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a **Data Scientist** with expertise in **financial ana
 
 ### 📂 Featured Projects
 Here are some highlights from my portfolio:  
-1. **[Bank Analysis Dashboard](https://github.com/your-repo-link)**: An interactive Power BI dashboard analyzing key bank metrics and trends.  
+1. **[Customer Segmantation](https://github.com/your-repo-link)**: An interactive Power BI dashboard analyzing key bank metrics and trends.  
 2. **[Air Quality Prediction](https://github.com/IngridNya/Air-Quality-Prediction-Project)**: A machine learning model predicting air quality using RMSE as the evaluation metric.  
 3. **[Loan Default Prediction Model](https://github.com/your-repo-link)** (In Progress): A unique dashboard integrating a predictive loan default model.  
 
