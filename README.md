@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a **Data Scientist** with expertise in **financial ana
 Here are some highlights from my portfolio:  
 1. **[Customer Segmantation](https://github.com/IngridNya/-customer-segmentation/tree/main)**: An interactive Jupyter notebook analyzing customer segmentation using K-Means clustering, including feature engineering and clustering visualization.  
 2. **[Air Quality Prediction](https://github.com/IngridNya/Air-Quality-Prediction-Project)**: A machine learning model predicting air quality using RMSE as the evaluation metric.  
-3. **[Loan Default Prediction Model](https://github.com/your-repo-link)** (In Progress): A unique dashboard integrating a predictive loan default model.  
+3. **[Loan Prediction Model](https://github.com/IngridNya/loan-prediction-ml)** : A machine learning project that predicts loan approval status based on applicant financial and personal data.  
 
 ---
 
